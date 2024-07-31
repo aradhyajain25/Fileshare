@@ -26,7 +26,7 @@ To install and run this project locally, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/anushkacodez/fileshare.git
+git clone https://github.com/aradhyajain25/Fileshare.git
 cd fileshare
 ```
 
